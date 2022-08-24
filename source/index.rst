@@ -12,6 +12,10 @@ processes. As a result, popular! Many modern web applications have been quick to
 
 Come and get it!
 
+.. image:: _static/images/in-progress.png
+  :alt: In Progress ...
+
+
 .. toctree::
    :glob:
    :maxdepth: 1
