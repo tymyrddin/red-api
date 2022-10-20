@@ -11,4 +11,4 @@ are only able to access their own resources or use functionality that aligns wit
 
 ## How?
 
-* Use A-B and A-B-A testing for [exploiting authorisation](authorisation.md)
+* [Exploiting authorisation](authorisation.md)

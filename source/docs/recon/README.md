@@ -12,5 +12,8 @@ vulnerabilities.
 
 ## How?
 
-* [Passive reconnaissance](passive.md)
-* [Active reconnaissance](active.md)
+* [Collect data](collect-data.md)
+* [Understand application functionality](functionality.md)
+* [Document key parameters](parameters.md)
+* [Analyse traffic](traffic.md)
+* [Check for exposed secrets](secrets.md)

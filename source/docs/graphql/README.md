@@ -2,8 +2,8 @@
 
 ## What?
 
-There are some major differences between RESTful APIs and GraphQL APIs. The same hacking techniques used sofat can be 
-adapted for hacking GraphQL.
+There are some major differences between RESTful APIs and GraphQL APIs. The same hacking techniques used for RESTful 
+APIs can be adapted for hacking GraphQL.
 
 ## Why?
 

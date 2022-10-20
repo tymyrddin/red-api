@@ -1,9 +1,7 @@
 # Exploit authorisation
 
-## Attack tree
+Use A-B and A-B-A testing.
 
-```text
-1 Discover resource identification methods (AND)
-2 Check for BOLA (AND)
-3 Check for BFLA 
-```
+1. Discover resource identification methods
+2. Check for BOLA
+3. Check for BFLA 

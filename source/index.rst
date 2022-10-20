@@ -6,33 +6,36 @@ can design modular applications that leverage the expertise of other application
 their own custom software to implement maps, payment processors, machine-learning algorithms, or authentication
 processes. As a result, popular! Many modern web applications have been quick to adopt APIs.
 
-* APIs have immensely expanded applications’ attack surfaces.
+* APIs have exploded applications’ attack surfaces.
 * They are often poorly defended providing a direct route to their data.
 * Many APIs lack the security controls that other attack vectors have in place.
 
-Come and get it!
+API Penetration Testing is a type of security testing performed on application programming interfaces (APIs) to assess
+the strength of the security controls in place.
 
-.. image:: _static/images/in-progress.png
-  :alt: In Progress ...
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Challenges
 
+   docs/challenges/README.md
+   docs/challenges/usecases.md
+   docs/challenges/access.md
+   docs/challenges/calls.md
+   docs/challenges/versioning.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Tools
+   :caption: Information gathering
 
-   docs/tools/README.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Reconnaissance
-
-   docs/reconnaissance/README.md
-   docs/reconnaissance/passive.md
-   docs/reconnaissance/active.md
+   docs/recon/README.md
+   docs/recon/collect-data.md
+   docs/recon/functionality.md
+   docs/recon/parameters.md
+   docs/recon/traffic.md
+   docs/recon/secrets.md
 
 .. toctree::
    :glob:
@@ -47,19 +50,19 @@ Come and get it!
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Authentication
+   :caption: Fuzzing
 
-   docs/authentication/README.md
-   docs/authentication/*
+   docs/fuzzing/README.md
+   docs/fuzzing/*
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Fuzzing
+   :caption: Authentication
 
-   docs/fuzzing/README.md
-   docs/fuzzing/*
+   docs/authentication/README.md
+   docs/authentication/*
 
 .. toctree::
    :glob:
@@ -96,6 +99,17 @@ Come and get it!
 
    docs/graphql/README.md
    docs/graphql/*
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Prevention
+
+   docs/prevent/README.md
+   docs/prevent/monitor.md
+   docs/prevent/scan.md
+   docs/prevent/notrust.md
+   docs/prevent/tools.md
 
 .. toctree::
    :caption: Links

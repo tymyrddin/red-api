@@ -3,8 +3,8 @@
 ## Attack tree
 
 ```text
-Discover requests that accept user input (AND)
-Test for XSS/XAS (AND)
-Perform database-specific attacks (OR)
-Perform operating system injection
+1 Discover requests that accept user input (AND)
+2 Test for XSS/XAS (AND)
+3 Perform database-specific attacks (OR)
+4 Perform operating system injection
 ```

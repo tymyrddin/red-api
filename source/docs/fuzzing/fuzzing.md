@@ -1,13 +1,17 @@
-# Fuzzing wide and deep
+# Fuzz deep and wide
 
-## Attack tree
+Fuzz all the things, including:
 
-```text
-1 Fuzz all the things
-```
+* Authentication, Authorization & Roles (Privileges and Permissions)
+* Data Input Validation, Handling & Processing
+* Encryption & Sequencing
+* Business Logic, Source Code & Parameter Manipulation
+
+Results in validation of vulnerabilities that can or may be exploited.
 
 ## Tools
 
 * [Wfuzz](https://github.com/xmendez/wfuzz)
-* [BurpSuite](https://portswigger.net/burp)
-* [Postman](https://portswigger.net/bappstore/6ae9ede3630949748842a43518e840a7)
+* [BurpSuite Intruder](https://portswigger.net/burp/documentation/desktop/tools/intruder/using)
+* [Postman's Collection Runner](https://learning.postman.com/docs/running-collections/intro-to-collection-runs/)
+
