@@ -33,8 +33,8 @@ the strength of the security controls in place.
    docs/recon/README.md
    docs/recon/collect-data.md
    docs/recon/functionality.md
+   docs/recon/burp.md
    docs/recon/parameters.md
-   docs/recon/traffic.md
    docs/recon/secrets.md
 
 .. toctree::
@@ -59,28 +59,13 @@ the strength of the security controls in place.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Authentication
+   :caption: Exploitation
 
-   docs/authentication/README.md
-   docs/authentication/*
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Authorisation
-
-   docs/authorisation/README.md
-   docs/authorisation/*
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Injection
-
-   docs/injection/README.md
-   docs/injection/*
+   docs/exploit/README.md
+   docs/exploit/authentication.md
+   docs/exploit/authorisation.md
+   docs/exploit/mass-assignment.md
+   docs/exploit/traditional.md
 
 .. toctree::
    :glob:

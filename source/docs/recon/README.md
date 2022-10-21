@@ -14,6 +14,6 @@ vulnerabilities.
 
 * [Collect data](collect-data.md)
 * [Understand application functionality](functionality.md)
+* [Analyse traffic](burp.md)
 * [Document key parameters](parameters.md)
-* [Analyse traffic](traffic.md)
 * [Check for exposed secrets](secrets.md)
