@@ -88,7 +88,7 @@ the strength of the security controls in place.
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Prevention
+   :caption: Shift left
 
    docs/prevent/README.md
    docs/prevent/monitor.md
