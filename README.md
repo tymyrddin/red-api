@@ -29,4 +29,5 @@ This project welcomes contributions and suggestions.
 [Open an issue here](https://github.com/tymyrddin/red-api/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+In fact, no gods anywhere play chess. They prefer simple, vicious games, where you Do Not Achieve Transcendence but Go Straight to Oblivion; a key to the understanding of all religion is that a god's idea of amusement is Snakes and Ladders with greased rungs. ~TP
