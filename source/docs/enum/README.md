@@ -2,7 +2,7 @@
 
 ## What?
 
-Enumeration is a process of connecting to and retrieving more information. Take information already gathered during 
+Take information already gathered during 
 reconnaissance and gather as much data about the application and its API. 
 
 ## Why?
