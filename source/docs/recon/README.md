@@ -17,3 +17,4 @@ vulnerabilities.
 * [Analyse traffic](burp.md)
 * [Document key parameters](parameters.md)
 * [Check for exposed secrets](secrets.md)
+* [Scanning an API](scanning.md)
