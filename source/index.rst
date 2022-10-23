@@ -36,7 +36,15 @@ the strength of the security controls in place.
    docs/recon/burp.md
    docs/recon/parameters.md
    docs/recon/secrets.md
-   docs/recon/scanning.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Enumeration
+
+   docs/enum/README.md
+   docs/enum/scanning.md
 
 .. toctree::
    :glob:
