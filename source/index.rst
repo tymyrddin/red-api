@@ -94,16 +94,6 @@ the strength of the security controls in place.
    docs/graphql/README.md
    docs/graphql/*
 
-.. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: Shift left
-
-   docs/prevent/README.md
-   docs/prevent/monitor.md
-   docs/prevent/scan.md
-   docs/prevent/notrust.md
-   docs/prevent/tools.md
 
 .. toctree::
    :caption: Links
