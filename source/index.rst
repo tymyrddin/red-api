@@ -13,6 +13,13 @@ processes. As a result, popular! Many modern web applications have been quick to
 API Penetration Testing is a type of security testing performed on application programming interfaces (APIs) to assess
 the strength of the security controls in place.
 
+----
+
+.. image:: _static/images/hacking-apis.png
+  :alt: Useful books
+
+----
+
 .. toctree::
    :maxdepth: 1
    :includehidden:
