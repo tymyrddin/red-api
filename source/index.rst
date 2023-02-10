@@ -6,17 +6,17 @@ can design modular applications that leverage the expertise of other application
 their own custom software to implement maps, payment processors, machine-learning algorithms, or authentication
 processes. As a result, popular! Many modern web applications have been quick to adopt APIs.
 
-* APIs have exploded applications’ attack surfaces.
-* They are often poorly defended providing a direct route to their data.
-* Many APIs lack the security controls that other attack vectors have in place.
+----
+
+Problems
+---------------------------------------------
+
+- APIs have exploded applications’ attack surfaces.
+- They are often poorly defended providing a direct route to their data.
+- Many APIs lack the security controls that other attack vectors have in place.
 
 API Penetration Testing is a type of security testing performed on application programming interfaces (APIs) to assess
 the strength of the security controls in place.
-
-----
-
-.. image:: _static/images/hacking-apis.png
-  :alt: Useful books
 
 ----
 
@@ -101,8 +101,7 @@ the strength of the security controls in place.
    docs/graphql/README.md
    docs/graphql/*
 
+----
 
-.. toctree::
-   :caption: Links
-
-   Red Team <https://red.tymyrddin.dev/>
+.. image:: _static/images/hacking-apis.png
+  :alt: Useful books
