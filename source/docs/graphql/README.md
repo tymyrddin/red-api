@@ -11,4 +11,4 @@ Get a sense of applying API hacking techniques to emerging web API formats.
 
 ## How?
 
-* [Attack GraphQL](graphql.md)
+* [RootMe: GraphQL - Introspection](introspection.md)
