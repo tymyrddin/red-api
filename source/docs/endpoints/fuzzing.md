@@ -2,10 +2,10 @@
 
 Fuzz all the things, including:
 
-* Authentication, Authorization & Roles (Privileges and Permissions)
-* Data Input Validation, Handling & Processing
-* Encryption & Sequencing
-* Business Logic, Source Code & Parameter Manipulation
+* Authentication, authorization & roles (privileges and permissions)
+* Data input validation, handling & processing
+* Encryption & sequencing
+* Business logic, source code & parameter manipulation
 
 Results in validation of vulnerabilities that can or may be exploited.
 

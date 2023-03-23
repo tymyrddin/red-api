@@ -6,11 +6,6 @@ can design modular applications that leverage the expertise of other application
 their own custom software to implement maps, payment processors, machine-learning algorithms, or authentication
 processes. As a result, popular! Many modern web applications have been quick to adopt APIs.
 
-----
-
-Problems
----------------------------------------------
-
 - APIs have exploded applications’ attack surfaces.
 - They are often poorly defended providing a direct route to their data.
 - Many APIs lack the security controls that other attack vectors have in place.
@@ -23,35 +18,12 @@ the strength of the security controls in place.
 .. toctree::
    :maxdepth: 1
    :includehidden:
-   :caption: Challenges
+   :caption: Preparation
 
-   docs/challenges/README.md
-   docs/challenges/usecases.md
-   docs/challenges/access.md
-   docs/challenges/calls.md
-   docs/challenges/versioning.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Information gathering
-
-   docs/recon/README.md
-   docs/recon/collect-data.md
-   docs/recon/functionality.md
-   docs/recon/burp.md
-   docs/recon/parameters.md
-   docs/recon/secrets.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Enumeration
-
-   docs/enum/README.md
-   docs/enum/scanning.md
+   Build a local testlab <https://red.tymyrddin.dev/projects/testlab/en/latest/docs/api/README.html>
+   Reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/docs/api/README.html>
+   Enumeration <https://red.tymyrddin.dev/projects/enum/en/latest/docs/app/api.html>
+   docs/challenges.md
 
 .. toctree::
    :glob:
@@ -60,16 +32,8 @@ the strength of the security controls in place.
    :caption: Analysing endpoints
 
    docs/endpoints/README.md
-   docs/endpoints/*
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Fuzzing
-
-   docs/fuzzing/README.md
-   docs/fuzzing/*
+   docs/endpoints/requests.md
+   docs/endpoints/fuzzing.md
 
 .. toctree::
    :glob:
@@ -87,7 +51,7 @@ the strength of the security controls in place.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Evasion
+   :caption: Evasion techniques
 
    docs/evasion/README.md
    docs/evasion/*

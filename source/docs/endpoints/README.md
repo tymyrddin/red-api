@@ -13,3 +13,4 @@ misconfigurations, excessive data exposures, and logic flaws.
 ## How?
 
 * [Analyse API endpoints](requests.md)
+* [Fuzz deep and wide](fuzzing.md)
