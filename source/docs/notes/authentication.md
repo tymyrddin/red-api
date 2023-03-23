@@ -4,7 +4,7 @@ Check for bad passwords and password requirements, default credentials, verbose 
 
 Many of the gifts that keep giving from web applications for decades have been ported over to APIs, plus then some.
 
-1. Basic authentication testing (AND)
+1. Basic authentication testing
 2. Attack and manipulate API tokens
 
 

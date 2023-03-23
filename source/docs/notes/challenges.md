@@ -29,5 +29,3 @@ Testers then need to take the calling order of APIs into account in the test cas
 ## API versioning
 
 Versioning is another major cause of exploding the complexity in API testing. The API must identify missing values and allocate some default to allow an old version to work. It is entirely possible that some versions are called by some versions, but not by others.
-
-The task here is to overcome these challenges to build a meaningful and sustainable API testing practice.

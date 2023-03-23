@@ -2,6 +2,8 @@
 
 [RootMe Challenge GraphQL - Introspection](https://www.root-me.org/en/Challenges/Web-Server/GraphQL-Introspection): First steps in exploring a GraphQL schema with the introspection feature.
 
+There are some major differences between RESTful APIs and GraphQL APIs. The same hacking techniques used for RESTful APIs can be adapted for hacking GraphQL.
+
 ## Introspection
 
 _Introspection is the ability to query which resources are available in the current API schema. Given the API, via introspection, we can see the queries, types, fields, and directives it supports._

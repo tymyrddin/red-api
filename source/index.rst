@@ -23,47 +23,33 @@ the strength of the security controls in place.
    Build a local testlab <https://red.tymyrddin.dev/projects/testlab/en/latest/docs/api/README.html>
    Reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/docs/api/README.html>
    Enumeration <https://red.tymyrddin.dev/projects/enum/en/latest/docs/app/api.html>
-   docs/challenges.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Analysing endpoints
+   :caption: Notes on techniques
 
-   docs/endpoints/README.md
-   docs/endpoints/requests.md
-   docs/endpoints/fuzzing.md
+   docs/notes/README.md
+   docs/notes/challenges.md
+   docs/notes/rate-limit.md
+   docs/notes/requests.md
+   docs/notes/fuzzing.md
+   docs/notes/evade.md
+   docs/notes/authentication.md
+   docs/notes/authorisation.md
+   docs/notes/mass-assignment.md
+   docs/notes/traditional.md
 
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Exploitation
-
-   docs/exploit/README.md
-   docs/exploit/authentication.md
-   docs/exploit/authorisation.md
-   docs/exploit/mass-assignment.md
-   docs/exploit/traditional.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Evasion techniques
+   :caption: CTFs and challenges
 
-   docs/evasion/README.md
-   docs/evasion/*
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: GraphQL
-
-   docs/graphql/README.md
-   docs/graphql/*
+   docs/ctf/README.md
+   docs/ctf/introspection.md
 
 ----
 
