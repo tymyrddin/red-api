@@ -10,4 +10,4 @@ Get a sense of applying API hacking techniques to (emerging) web API formats.
 
 ## How?
 
-* [RootMe: GraphQL Introspection](introspection.md)
+- [ ] [RootMe: GraphQL Introspection](introspection.md)
