@@ -1,5 +1,13 @@
 # Challenges
 
+By relying on APIs, developers can design modular applications that leverage the expertise of other applications. They no longer need to create their own custom software to implement maps, payment processors, machine-learning algorithms, or authentication processes. As a result, popular! Many modern web applications have been quick to adopt APIs.
+
+- APIs have exploded applications’ attack surfaces.
+- They are often poorly defended providing a direct route to their data.
+- Many APIs lack the security controls that other attack vectors have in place.
+
+## Complexity
+
 A few common rules of API testing:
 
 * An API should provide expected output for a given input

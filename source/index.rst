@@ -1,17 +1,12 @@
 API mayhem
 =====================================================
 
-An API is a technology that enables communication between different applications. By relying on APIs, developers
-can design modular applications that leverage the expertise of other applications. They no longer need to create
-their own custom software to implement maps, payment processors, machine-learning algorithms, or authentication
-processes. As a result, popular! Many modern web applications have been quick to adopt APIs.
+She stood on the bridge and frowned: To bridge over something had led to building bridges. But was it a bridge too far? Was the gap not too wide?" She turned to look at the other side, "I'll cross that bridge when I come to it. No need burning it now."
 
-- APIs have exploded applications’ attack surfaces.
-- They are often poorly defended providing a direct route to their data.
-- Many APIs lack the security controls that other attack vectors have in place.
+An API is a technology that enables communication between different applications. API Penetration Testing is a type of security testing performed on application programming interfaces (APIs) to assess the strength of the security controls in place.
 
-API Penetration Testing is a type of security testing performed on application programming interfaces (APIs) to assess
-the strength of the security controls in place.
+.. image:: _static/images/in-progress.png
+  :alt: Forever in progress ...
 
 ----
 
@@ -53,5 +48,5 @@ the strength of the security controls in place.
 
 ----
 
-.. image:: _static/images/hacking-apis.png
+.. image:: _static/images/books.png
   :alt: Useful books
