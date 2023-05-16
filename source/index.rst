@@ -13,11 +13,17 @@ An API is a technology that enables communication between different applications
 .. toctree::
    :maxdepth: 1
    :includehidden:
+   :caption: Test lab
+
+   API tools <https://testlab.tymyrddin.dev/docs/api/README>
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
    :caption: Preparation
 
-   Build a local testlab <https://red.tymyrddin.dev/projects/testlab/en/latest/docs/api/README.html>
-   Reconnaissance <https://red.tymyrddin.dev/projects/recon/en/latest/docs/api/README.html>
-   Enumeration <https://red.tymyrddin.dev/projects/enum/en/latest/docs/app/api.html>
+   Reconnaissance <https://recon.tymyrddin.dev/docs/api/README>
+   Enumeration <https://enum.tymyrddin.dev/docs/app/api>
 
 .. toctree::
    :glob:
